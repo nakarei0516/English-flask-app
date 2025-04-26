@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+{% if current_user.is_authenticated %}
+    <h2>ようこそ、{{ current_user.username }}さん！</h2>
+    <p>英単語を登録して、覚えていこう！</p>
+{% else %}
+    <h2>ようこそ、ゲストさん</h2>
+    <p>英単語を登録して、覚えていこう！</p>
+  {% endif %}
+{% endblock %}
