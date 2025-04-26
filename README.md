@@ -27,9 +27,13 @@ FlaskとSQLiteを使用して開発した、英単語を登録・管理できる
 
 ## デモ画面
 [アプリ画面]
-(![スクリーンショット１](https://github.com/user-attachments/assets/566a420a-f248-49fc-ab57-26bcf8ffae55))
-![スクリーンショット２](https://github.com/user-attachments/assets/d2df5c8e-9f03-4649-910e-743661d0c128)
-![スクリーンショット３](https://github.com/user-attachments/assets/09057f01-4cac-403b-a294-060f6713d3fd)
+![スクリーンショット1]![image](https://github.com/user-attachments/assets/eb226244-9f9a-4851-a005-edc0903133f6)
+![スクリーンショット２]![image](https://github.com/user-attachments/assets/4f4ec858-07a9-4e58-857a-7c6ebaf456b7)
+![スクリーンショット３]![image](https://github.com/user-attachments/assets/8ea68edc-800e-4555-b8a3-835bae6dce77)
+![スクリーンショット４]![image](https://github.com/user-attachments/assets/b73b2ee5-22d0-4cd6-9e77-373e81f4bc68)
+![スクリーンショット５]![image](https://github.com/user-attachments/assets/58d7e188-1415-4a29-8b6e-59f16438a30a)
+
+
 
 
 
